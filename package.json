@@ -1,0 +1,26 @@
+{
+  "name": "huyen-birthday-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.1",
+    "@vitejs/plugin-react": "^5.0.3",
+    "canvas-confetti": "^1.9.3",
+    "framer-motion": "^12.23.22",
+    "howler": "^2.2.4",
+    "html-to-image": "^1.11.13",
+    "lucide-react": "^0.545.0",
+    "maath": "^0.10.8",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "three": "^0.186.1",
+    "vite": "^7.1.8"
+  }
+}
